@@ -9,7 +9,7 @@ Este proyecto propone un prototipo académico para digitalizar el contorno exter
 
 El sensor permanece fijo mientras la pieza gira; cada distancia medida se asocia a un ángulo para obtener un perfil geométrico. El objetivo es integrar **sensado, control de motores, sincronización, procesamiento y almacenamiento de datos** en un sistema embebido.
 
-> **Alcance:** el diseño académico actual comprende **un eje angular** y una altura de medición fija. La ampliación a un eje vertical aparece en algunos diagramas del proyecto, pero no forma parte del alcance definido para esta versión. El resultado previsto es un perfil a altura constante, no una reconstrucción volumétrica completa.
+> **Alcance:** el diseño académico actual comprende **un eje angular** y una altura de medición en el plano Z. La ampliación a un eje vertical aparece en algunos diagramas del proyecto. El resultado previsto es un perfil a altura variable junto a los dos motores paso a paso permitiendo la amplitud en la proyección de los puntos infrarrojos que posteriormente se convertirán en una nube de puntos. Este proyecto va dirigido a los estudiantes de mecatrónica que quieren hacer sus primeras impresiones 3d y practicar de manera continua la categorización y proyección de objetos menores de 12 cm.
 
 ## Documento de diseño y documentación
 
